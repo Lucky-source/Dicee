@@ -1,2 +1,2 @@
 # Dicee
-## A web Dicee game
+## A web Dice game
